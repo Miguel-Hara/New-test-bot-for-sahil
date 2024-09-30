@@ -1,0 +1,2 @@
+pyrogram==2.0.106  # Pyrogram client library for Telegram Bot API
+tgcrypto==1.2.3    # Required for Pyrogram to improve encryption performance
